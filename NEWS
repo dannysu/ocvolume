@@ -1,0 +1,20 @@
+June 28, 2002 - First release of complete package  
+We release the complete package to the public. Although this initial package contains only an Isolated Word Recognizer, it will become more sophisticated as we add more capability to the engine.  
+
+  
+May 23, 2002 - Completion of Vector Quantization component  
+We finished programming the Feature Extraction component and use it to extract Mel-Frequency Cepstral Coefficients from speech signal.  
+
+  
+May 16, 2002 - Completion of Feature Extraction component  
+We finished programming the Feature Extraction component and use it to extract Mel-Frequency Cepstral Coefficients from speech signal.  
+
+  
+May 5, 2002 - Completion of Hidden Markov Models component  
+We finished programming the Discrete Hidden Markov Models for our speech recognition engine.  
+
+  
+March 28, 2002 - Project started  
+We started doing preliminary research on speech recognition.  
+
+  

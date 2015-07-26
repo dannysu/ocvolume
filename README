@@ -1,0 +1,48 @@
+OC Volume version 1.0.0 README
+------------------------------
+
+WHO are we?
+-----------
+
+OrangeCow (OC) is a non-profit organization that
+devotes its resources to bring free and useful
+sofware for the public. 
+
+
+WHAT is OC Volume?
+------------------
+
+OC Volume is the first software released by OrangeCow
+organization. The aim of this program is to enable
+voice communication with computers. OC Volume is a
+speech recognition engine written in Java, and should
+be integrated with other applications to create
+voice-driven software. 
+
+
+WHEN did we start the project?
+------------------------------
+
+The OC Volume project started on March 28, 2002. 
+
+
+WHY free and open-source?
+-------------------------
+
+Members of OrangeCow organization believe that things
+should be free since we all enjoy free stuff. Our aim
+is not to make money but to help human-to-computer
+communication research field. We decide to make our
+software Open-Source to better benefit programmers
+and those who want to contribute. 
+
+WHERE can I find it?
+--------------------
+
+OC Volume can be found at
+http://ocvolume.sourceforge.net
+
+HOW do I use it?
+----------------
+
+Please refer to documentation at above website.

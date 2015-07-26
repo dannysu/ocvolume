@@ -1,0 +1,7 @@
+1.0.0 - initial release
+-----------------------
+contrains features:
+- Discrete Hidden Markov Models
+- k-dimensional Vector Quantization
+- Feature Extraction component to obtain Mel-Frequency Cepstral Coefficients
+- training program

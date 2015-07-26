@@ -1,0 +1,4 @@
+It's easy to start using OC Volume.
+Simply extract the files from training.zip to your JRE's Extension Library directory (ie. c:\jdk1.3\jre\lib\ext).
+
+You can now import ocvolume package into your own classes.

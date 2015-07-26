@@ -1,0 +1,52 @@
+Credits (Last updated: June 28, 2002)
+-------------------------------------
+
+OrangeCow (OC) organization would like to thank
+several people that contributed in the success
+of this OC Volume release. This project would
+probably not be complete without their
+assistance and willingness to help us as much
+as they can.
+
+Thanks go to:
+
+Chris Duff
+- He is a computer teacher at Thornlea
+  Secondary School. He motivated and pushed us
+  beyond our limits to do the best we can do.
+
+Nick Fernandes
+- He is a computer teacher at Thornlea
+  Secondary School. He helped us by giving us
+  his opinions and suggestions on the project.
+
+David Martínez Nieto
+- He worked on an implementation of the Hidden
+  Markov Chains in voice recognition for low
+  power emmbedded systems (project webpage:
+  http://sourceforge.net/projects/m68kvrs/). He
+  helped us with questions about Hidden Markov
+  Models.
+
+Tor M. Aamodt
+- He is a PhD student at University of Toronto
+  (his home page:
+  http://www.eecg.toronto.edu/~aamodt/ece341/speech-recognition/).
+  He gave valuable suggestions to where might
+  be the problem with our recognition system.
+  He suggested that we use MATLAB to verify the
+  Digital Signal Processing results and told us
+  that Hidden Markov Models can be used to deal
+  time variation problems.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Tim Lin
+- He is a student at University of Waterloo
+  studying computer science. He suggested us
+  not to use Neural Networks but find
+  alternatives. His support also contributed a
+  lot to our success.
+
+Also, the we would like to thank Thornlea
+Secondary School for providing us with their
+computer lab.
