@@ -1,6 +1,11 @@
+1.0.1 - minor changes
+---------------------
+- Corrected package names in all files
+- Corrected mistake made in FFT routine
+
 1.0.0 - initial release
 -----------------------
-contrains features:
+contains features:
 - Discrete Hidden Markov Models
 - k-dimensional Vector Quantization
 - Feature Extraction component to obtain Mel-Frequency Cepstral Coefficients

@@ -1,20 +1,53 @@
+February 15, 2004 - Changed from LGPL to BSD license and various updates
+------------------------------------------------------------------------
+This is the first update in a while. There are some minor changes listed
+below:
+
+* OCV license changed from LGPL to BSD license, which gives much more
+  freedom.
+
+* The links page had several dead links, and they are either fixed or
+  removed.
+
+* There was a mistake made in fft.java that has been fixed. Apparently,
+  the fast fourier transform function has a bug in the bit reversal
+  sorting code. It was discovered when I was re-using the fft function
+  to perform fast polynomial multiplication. Use a diff tool to compare
+  old version to new version to see the difference.
+
+I (Danny) am starting to work on improvements for original OCV code, but
+this time coding it in C. There may be a Java API once and if I do
+finish. My aim is to have a working Hidden Markov Model module for
+training and try to make the recognizer less speaker dependent.
+
 June 28, 2002 - First release of complete package  
-We release the complete package to the public. Although this initial package contains only an Isolated Word Recognizer, it will become more sophisticated as we add more capability to the engine.  
+-------------------------------------------------
+We release the complete package to the public.
+Although this initial package contains only an
+Isolated Word Recognizer, it will become more
+sophisticated as we add more capability to the
+engine.  
 
-  
-May 23, 2002 - Completion of Vector Quantization component  
-We finished programming the Feature Extraction component and use it to extract Mel-Frequency Cepstral Coefficients from speech signal.  
+May 23, 2002 - Completion of Vector Quantization component
+----------------------------------------------------------
+We finished programming the Feature Extraction component
+and use it to extract Mel-Frequency Cepstral Coefficients
+from speech signal.
 
-  
-May 16, 2002 - Completion of Feature Extraction component  
-We finished programming the Feature Extraction component and use it to extract Mel-Frequency Cepstral Coefficients from speech signal.  
+May 16, 2002 - Completion of Feature Extraction component
+---------------------------------------------------------
+We finished programming the Feature Extraction component
+and use it to extract Mel-Frequency Cepstral Coefficients
+from speech signal.
 
-  
-May 5, 2002 - Completion of Hidden Markov Models component  
-We finished programming the Discrete Hidden Markov Models for our speech recognition engine.  
+May 5, 2002 - Completion of Hidden Markov Models component
+----------------------------------------------------------
+We finished programming the Discrete Hidden Markov Models
+for our speech recognition engine.
 
-  
-March 28, 2002 - Project started  
-We started doing preliminary research on speech recognition.  
+March 28, 2002 - Project started
+--------------------------------
+We started doing preliminary
+research on speech recognition.
 
   
