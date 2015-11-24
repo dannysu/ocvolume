@@ -1,4 +1,4 @@
-/*
+package samples.voiceType.src;/*
 OC Volume - Java Speech Recognition Engine
 Copyright (C) 2002 OrangeCow organization
  
@@ -20,15 +20,15 @@ Contact information:
 Please visit http://ocvolume.sourceforge.net.
  */
 
-import java.io.*;
-import java.util.*;
+import org.oc.ocvolume.audio.micInput;
+import org.oc.ocvolume.ocvolume;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
+import java.io.*;
 
 // for ocvolume
-import org.oc.ocvolume.*; // import OC Volume speech recognition engine
-import org.oc.ocvolume.audio.*; // import the OC Volume's audio package to handle microphone inputs
 // end for ocvolume
 
 /**

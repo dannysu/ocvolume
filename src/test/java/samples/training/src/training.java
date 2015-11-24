@@ -1,4 +1,4 @@
-/*
+package samples.training.src;/*
 OC Volume - Java Speech Recognition Engine
 Copyright (C) 2002 OrangeCow organization
 
